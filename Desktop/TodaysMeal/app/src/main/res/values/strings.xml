@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TodaysMeal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="breakfast_icon">Breakfast Icon</string>
+    <string name="enter_breakfast_menu">Enter breakfast menu</string>
+    <string name="lunch_icon">Lunch Icon</string>
+    <string name="enter_lunch_menu">Enter lunch menu</string>
+    <string name="dinner_icon">Dinner Icon</string>
+    <string name="enter_dinner_menu">Enter dinner menu</string>
+    <string name="snack_icon">Snack Icon</string>
+    <string name="enter_snack_menu">Enter snack menu</string>
+    <string name="save_meal_plan">Save Meal Plan</string>
+</resources>

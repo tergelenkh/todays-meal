@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.todaysmeal.MainFragment"
+        android:label="Main"
+        tools:layout="@layout/fragment_main" />
+
+    <fragment
+        android:id="@+id/plannerFragment"
+        android:name="com.example.todaysmeal.PlannerFragment"
+        android:label="Planner"
+        tools:layout="@layout/fragment_planner" />
+
+    <fragment
+        android:id="@+id/groceryFragment"
+        android:name="com.example.todaysmeal.GroceryFragment"
+        android:label="Grocery"
+        tools:layout="@layout/fragment_grocery" />
+</navigation>
